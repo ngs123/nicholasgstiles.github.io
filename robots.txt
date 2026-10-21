@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://ngstiles.github.io/sitemap.xml
+Sitemap: https://nicholasgstiles.github.io/sitemap.xml
