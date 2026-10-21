@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD student in the [Department of Electrical Engineering and Computer Science at MIT](https://www.eecs.mit.edu/).
+subtitle:
 
 profile:
   align: right
