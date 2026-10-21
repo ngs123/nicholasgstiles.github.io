@@ -6,7 +6,7 @@ subtitle: PhD student in the [Department of Electrical Engineering and Computer 
 
 profile:
   align: right
-  image: IMG_7828
+  image: IMG_7828.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Office 36-683</p>
