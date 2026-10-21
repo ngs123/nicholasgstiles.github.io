@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: assets/img/IMG_7828.JPG
+  image: IMG_7828.JPG
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Office 36-683</p>
