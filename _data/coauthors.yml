@@ -1,2 +1,3 @@
-# Add coauthor names and profile URLs here when adding publications.
-{}
+wornell:
+  - firstname: ["Gregory W.", "Gregory", "G. W."]
+    url: https://web.mit.edu/gww/www/
