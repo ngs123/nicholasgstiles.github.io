@@ -13,9 +13,14 @@ nav_order: 1
   }
 
   .papers-list h2.bibliography {
+    display: block;
+    color: var(--global-text-color, inherit);
+    font-size: 1.5rem;
     border-top: 1px solid var(--global-divider-color, currentColor);
+    border-bottom: 1px solid var(--global-divider-color, currentColor);
     margin-top: 2rem;
-    padding-top: 1rem;
+    margin-bottom: 1.25rem;
+    padding: 0.75rem 0;
     text-align: right;
   }
 
@@ -65,5 +70,5 @@ nav_order: 1
 </style>
 
 <div class="publications papers-list">
-  {% bibliography %}
+  {% bibliography --group_by year --group_order descending %}
 </div>
